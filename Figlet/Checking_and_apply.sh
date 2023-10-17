@@ -11,4 +11,5 @@ else
 fi
 
 # Print it
-figlet  Yan Victor -f slant
+echo "By:"
+figlet  TheYanVictor -f slant
